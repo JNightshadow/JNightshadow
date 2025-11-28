@@ -1,10 +1,4 @@
 ## Hey there!
-I am just a master's student and a developer trying to improve myself both as a person as well as a coder..
-I've always been a legendary procrastinator and had issues being consistent when I don't have a deadline.
-I am trying to change that and trying to solve atleast one problem every day no matter what the level of difficulty.
-I first try to solve the problem on my own.. I try to look up when I don't understand or seek the guidance of ChatGPT.
-I've made some notes along with the code I've pushed whenever it's something I'm new to or struggled to do. Hope it helps you too!
-There are also some unfinished projects here.. Hope to finish them but I'll do it later! Oops..
 
 <!--
 **JNightshadow/JNightshadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
